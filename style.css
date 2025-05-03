@@ -1970,7 +1970,7 @@ body {
     }
     #main {
       position: relative;
-      overflow: hidden;
+      overflow-x: hidden;
       background-color: #1137ca;
     }
     @font-face {
