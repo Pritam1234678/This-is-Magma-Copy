@@ -753,7 +753,8 @@ body {
   }
   #main {
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     background-color: #1137ca;
   }
   @font-face {
@@ -1972,7 +1973,8 @@ body {
     }
     #main {
       position: relative;
-      overflow-x: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
       background-color: #1137ca;
     }
     @font-face {
